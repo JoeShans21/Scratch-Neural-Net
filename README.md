@@ -3,7 +3,7 @@ This is a simple implementation of a neural network from scratch in C. The neura
 <img width="68" alt="Screen Shot 2024-01-19 at 1 21 10 PM" src="https://github.com/JoeShans21/Scratch-Neural-Net/assets/31589578/623dcf3c-c97f-4953-8eae-e555dedb28ce">
 
 
-#Overview
+<h1>Overview</h1>
 The neural network is trained using a basic backpropagation algorithm with a sigmoid activation function. Here's an overview of the code's structure and functionality:
 
 * The sigmoid function computes the sigmoid activation of a given input.
